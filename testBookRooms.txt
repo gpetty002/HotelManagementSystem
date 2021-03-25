@@ -1,0 +1,25 @@
+1
+5
+8184289885
+Petty
+24302 Mulholland Ave
+3
+4
+Petty
+4
+44421 Rose St
+x
+1
+8
+28282229
+Miller
+10101 Topeka Ave
+2
+2
+x
+5
+Miller
+Y
+2
+x
+7

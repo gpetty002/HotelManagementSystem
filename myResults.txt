@@ -1,0 +1,321 @@
+
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+
+                                       *******************************
+                                                 BOOK A ROOM
+                                       *******************************
+
+                                           Available Rooms: 10
+                                ------------------------------------------------
+
+                                            Room: 0 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 1 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 2 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 3 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 4 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 5 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 6 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 7 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 8 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 9 Status: Available
+
+                                ------------------------------------------------
+
+                                               Room Number:                                          Cell Phone Number:                                                  Last Name:                                               Home Address:                                             Nights Staying: 
+                                                Room Booked!
+                                    Thank you for choosing to stay with us!
+
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+                                       *******************************
+                                                 EDIT RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 5 Last Name: Petty
+                                               Cell: 8184289885
+                                         Address: 10221 Oklahoma Ave
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $615
+                                ------------------------------------------------
+
+                    ENTER THE NAME OF THE RECORDS YOU WOULD LIKE TO EDIT OR ENTER 'x' TO EXIT: 
+                                       *******************************
+                                                 EDIT RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 5 Last Name: Petty
+                                               Cell: 8184289885
+                                         Address: 10221 Oklahoma Ave
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $615
+                                ------------------------------------------------
+
+                                               1. Room Number
+                                               2. Cell Phone Number
+                                               3. Last Name
+                                               4. Home Address
+                                               5. Nights Staying
+
+                                           ENTER A NUMBER TO EDIT: 
+                                            Enter a New Address: 
+                                          ALL CHANGES HAVE BEEN SAVED!
+
+                                         ENTER 'x' TO EXIT RECORDS: 
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+
+                                       *******************************
+                                                 BOOK A ROOM
+                                       *******************************
+
+                                           Available Rooms: 9
+                                ------------------------------------------------
+
+                                            Room: 0 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 1 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 2 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 3 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 4 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 6 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 7 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 8 Status: Available
+
+                                ------------------------------------------------
+                                ------------------------------------------------
+
+                                            Room: 9 Status: Available
+
+                                ------------------------------------------------
+
+                                               Room Number:                                          Cell Phone Number:                                                  Last Name:                                               Home Address:                                             Nights Staying: 
+                                                Room Booked!
+                                    Thank you for choosing to stay with us!
+
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+                                       *******************************
+                                             CUSTOMER RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 5 Last Name: Petty
+                                               Cell: 8184289885
+                                         Address: 14662 Bledsoe St
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $615
+                                ------------------------------------------------
+                                ------------------------------------------------
+                                            Room: 8 Last Name: Miller
+                                               Cell: 28282229
+                                         Address: 10101 Topeka Ave
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $410
+                                ------------------------------------------------
+
+                                   ENTER x TO EXIT RECORDS: 
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+                                       *******************************
+                                               DELETE RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 5 Last Name: Petty
+                                               Cell: 8184289885
+                                         Address: 14662 Bledsoe St
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $615
+                                ------------------------------------------------
+                                ------------------------------------------------
+                                            Room: 8 Last Name: Miller
+                                               Cell: 28282229
+                                         Address: 10101 Topeka Ave
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $410
+                                ------------------------------------------------
+
+                    ENTER THE NAME OF THE RECORDS YOU WOULD LIKE TO DELETE OR ENTER 'x' TO EXIT
+                                       *******************************
+                                               DELETE RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 8 Last Name: Miller
+                                               Cell: 28282229
+                                         Address: 10101 Topeka Ave
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $410
+                                ------------------------------------------------
+
+                                                ARE YOU SURE YOU WOULD LIKE TO DELETE THE Miller FAMILY RECORD? Y/N                                   DELETING...
+                       THE RECORD HAS BEEN DELETED
+
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
+                                       *******************************
+                                             CUSTOMER RECORDS
+                                       *******************************
+
+                                ------------------------------------------------
+                                            Room: 5 Last Name: Petty
+                                               Cell: 8184289885
+                                         Address: 14662 Bledsoe St
+
+                                        Status: Currently Guesting With Us
+                                               Total Bill: $615
+                                ------------------------------------------------
+
+                                   ENTER x TO EXIT RECORDS: 
+                                       *******************************
+                                           HOTEL MANAGEMENT SYSTEM
+                                       *******************************
+
+                                       1. Book A Room
+                                       2. Customer Records
+                                       3. Rooms Alotted
+                                       4. Edit Records
+                                       5. Delete Records
+                                       6. Make Payments
+                                       7. Exit
+
+                                       Enter your Choice: 
